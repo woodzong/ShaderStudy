@@ -1,3 +1,5 @@
 /UnityShader/Library
 /UnityShader/Temp
 /UnityShader/obj/Debug/*.cache
+/UnityShader/.vs
+/UnityShader/Assets/CH6/*.meta
