@@ -3,9 +3,10 @@
     "",
     "\\UnityShader",
     "\\UnityShader\\Assets",
+    "\\UnityShader\\Assets\\CH5",
     "\\UnityShader\\Assets\\CH6",
     "\\UnityShader\\Assets\\CH7"
   ],
-  "SelectedNode": "\\UnityShader\\Assets\\CH7\\Ch7_BlinnPhong.shader",
+  "SelectedNode": "\\UnityShader\\Assets\\CH6\\Chapter6-DiffuseVertexLevel.shader",
   "PreviewInSolutionExplorer": false
 }
